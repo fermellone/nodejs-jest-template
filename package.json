@@ -2,7 +2,7 @@
   "name": "nodejs-jest-template",
   "version": "1.0.0",
   "description": "Node.js server",
-  "main": "src/server.ts",
+  "main": "src/index.ts",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.ts",
