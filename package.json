@@ -1,5 +1,5 @@
 {
-  "name": "openai-easistant",
+  "name": "nodejs-jest-template",
   "version": "1.0.0",
   "description": "Node.js server",
   "main": "src/server.ts",
